@@ -10,9 +10,6 @@ Welcome to the Machine Learning Repository! This repository is a collection of c
 2. [Machine Learning Projects](#machine-learning-projects)
 3. [Self-Learning Codes for Machine Learning](#self-learning-codes-for-machine-learning)
 4. [Getting Started](#getting-started)
-5. [Contributing](#contributing)
-6. [License](#license)
-
 ## Class Code
 
 This section contains code snippets, notebooks, and projects related to machine learning that are specifically designed for a classroom setting. If you are currently taking a machine learning course, you may find materials here that complement your class lectures and assignments.
@@ -80,8 +77,5 @@ git clone https://github.com/Mahesh7741/machine-learning-repo.git
 
 4. Run the code and explore the project!
 
-## Contributing
-
-If you have code, projects, or resources related to machine learning that you'd like to contribute, please follow the [contribution guidelines](CONTRIBUTING.md). Your contributions are highly valued!
 
 Happy learning and coding! 🚀
